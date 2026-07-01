@@ -57,27 +57,27 @@ Assign tasks to team members and track progress directly via the dashboard.
 ## 📂 Project Structure
 Plaintext
 ProjectManagementSystem/
-│
-├── manage.py
-├── requirements.txt
-├── Procfile
-│
-├── ProjectManagementSystem/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── templates/
-│   ├── base.html
-│   ├── home.html
-│   └── login.html
-│
-└── staticfiles/
-    └── admin/
-        └── js/
-            ├── core.js
-            └── jquery.init.js
+*│
+*├── manage.py
+*├── requirements.txt
+*├── Procfile
+*│
+*├── ProjectManagementSystem/
+*│   *├── __init__.py
+*│   *├── settings.py
+*│   *├── urls.py
+*│   *└── wsgi.py
+*│
+*├── *templates/
+*│   *├── base.html
+*│   *├── home.html
+*│   *└── login.html
+*│
+*└── staticfiles/
+    *└── admin/
+        *└── js/
+            *├── core.js
+            *└── jquery.init.js
 ## 🤝 Contributing
 Contributions make the open-source community an amazing place to learn, inspire, and create. To contribute:
 
