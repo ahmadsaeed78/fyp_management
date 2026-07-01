@@ -33,19 +33,18 @@ To install and set up the Project Management System locally, follow these steps:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
    cd ProjectManagementSystem
-Install the required dependencies:
+2. **Install the required dependencies:**
+   ```Bash
+   pip install -r requirements.txt
 
-Bash
-pip install -r requirements.txt
-Set up the database:
-
-Bash
-python manage.py migrate
-Run the development server:
-
-Bash
-python manage.py runserver
-💻 Usage
+3. **Set up the database:**
+   ```Bash
+   python manage.py migrate
+   
+4. **Run the development server:**
+   ```Bash
+   python manage.py runserver
+##💻 Usage
 Open your web browser and navigate to http://localhost:8000.
 
 Log in using the admin credentials:
