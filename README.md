@@ -44,22 +44,17 @@ To install and set up the Project Management System locally, follow these steps:
 4. **Run the development server:**
    ```Bash
    python manage.py runserver
-##💻 Usage
+## 💻 Usage
 Open your web browser and navigate to http://localhost:8000.
-
 Log in using the admin credentials:
-
 Username: admin
-
 Password: admin
-
 Create a new project by clicking on the "Create Project" button.
-
 Assign tasks to team members and track progress directly via the dashboard.
 
 ⚠️ Note: Remember to change the default admin password if deploying this application to a production environment.
 
-📂 Project Structure
+## 📂 Project Structure
 Plaintext
 ProjectManagementSystem/
 │
@@ -83,7 +78,7 @@ ProjectManagementSystem/
         └── js/
             ├── core.js
             └── jquery.init.js
-🤝 Contributing
+## 🤝 Contributing
 Contributions make the open-source community an amazing place to learn, inspire, and create. To contribute:
 
 Fork the repository.
@@ -96,7 +91,7 @@ Push to the branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request via the GitHub interface.
 
-📬 Contact
+## 📬 Contact
 Email: ahmadsaeed.dev01@gmail.com
 
 Live Demo: Project Management System on Render
